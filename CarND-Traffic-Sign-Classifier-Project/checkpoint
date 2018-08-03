@@ -1,0 +1,2 @@
+model_checkpoint_path: "Final_Trained_sign_classifier_model"
+all_model_checkpoint_paths: "Final_Trained_sign_classifier_model"
