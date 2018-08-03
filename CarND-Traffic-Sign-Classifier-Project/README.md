@@ -22,10 +22,10 @@ The goals / steps of this project are the following:
 
 ###Check list:
 
-* Trained Model to classify road signs: [Final_Trained_sign_classifier_model.data-00000-of-00001]()  
-* My IPython notebook containing code of training and model: [Traffic_Sign_Classifier.ipynb](https://github.com/nutmas/CarND-LaneLines-P1/blob/master/CarND-LaneLines-P1/Traffic_Sign_Classifier.ipynb)  
-* HTML version of IPython notebook: [Traffic_Sign_Classifier.html]()  
-* Write-up of my project: [my_writeup_template.md](https://github.com/nutmas/CarND-LaneLines-P1/blob/master/CarND-LaneLines-P1/my_writeup_template.md).
+* Trained Model to classify road signs: [Final_Trained_sign_classifier_model.data-00000-of-00001](https://github.com/nutmas/Udacity-Self-Driving-Car/blob/master/CarND-Traffic-Sign-Classifier-Project/Final_Trained_sign_classifier_model.data-00000-of-00001)  
+* My IPython notebook containing code of training and model: [Traffic_Sign_Classifier.ipynb](https://github.com/nutmas/Udacity-Self-Driving-Car/blob/master/CarND-Traffic-Sign-Classifier-Project/Traffic_Sign_Classifier.ipynb)  
+* HTML version of IPython notebook: [Traffic_Sign_Classifier.html](https://github.com/nutmas/Udacity-Self-Driving-Car/blob/master/CarND-Traffic-Sign-Classifier-Project/Traffic_Sign_Classifier.html)  
+* Write-up of my project: [my_writeup_template.md](https://github.com/nutmas/Udacity-Self-Driving-Car/blob/master/CarND-Traffic-Sign-Classifier-Project/my_writeup_template.md)
 
 ### Dataset
 To run this project fully, the dataset is required:

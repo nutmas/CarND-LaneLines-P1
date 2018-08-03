@@ -51,7 +51,7 @@ The project submission includes following required files:
 * HTML output of the code [Traffic_Sign_Classifier.html](./Traffic_Sign_Classifier.html)
 * A writeup report [my_writeup_template.md](./my_writeup_template.md)
 
-The link to the  git repository for this project is: [Traffic Sign Recognition](https://)
+The link to the  git repository for this project is: [Traffic Sign Recognition](https://github.com/nutmas/Udacity-Self-Driving-Car/tree/master/CarND-Traffic-Sign-Classifier-Project)
 
 ### Data Set Summary & Exploration
 
